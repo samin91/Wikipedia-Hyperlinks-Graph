@@ -44,7 +44,7 @@ if __name__ == '__main__':
              'D': set(['B']),
              'E': set(['B', 'F']),
              'F': set(['C', 'E'])
-             }
+             ` }
 
     bfs(graph, 'D', 'F')
 
